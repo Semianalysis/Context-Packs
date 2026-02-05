@@ -30,6 +30,9 @@ git clone https://github.com/Semianalysis/Context-Packs.git context-packs
 | `datacenter` | Infrastructure, hyperscalers, power | DC buildout coverage |
 | `equipment` | ASML, Applied, Lam, KLA | Equipment/litho analysis |
 | `geopolitics` | Export controls, CHIPS Act, China | Policy/trade analysis |
+| `networking` | NVLink, InfiniBand, CPO, interconnects | AI cluster networking |
+| `hyperscalers` | Google, Microsoft, Amazon, Meta strategies | Cloud/custom silicon |
+| `finance` | Financial statements, valuation, metrics | Company analysis |
 
 ## Pack Structure
 
